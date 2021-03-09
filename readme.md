@@ -8,7 +8,7 @@ Já me conectei com HTML, CSS (Flexbox), JAVASCRIPT e já utilizei o Bootstrap.
 
 
 
-- [Linkedin] [Railan Santos | LinkedIn](https://www.linkedin.com/in/railan-santos-61b81087/)
+- [Railan Santos | LinkedIn](https://www.linkedin.com/in/railan-santos-61b81087/)
 
 
 
